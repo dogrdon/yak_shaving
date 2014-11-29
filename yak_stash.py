@@ -4,15 +4,21 @@ import json
 from config import Geos, Data
 import time
 
-with open(Data._PATH_TO_NEIGHBORHOODS, 'rt') as nabes:
-	latlongs = json.loads(nabes.read())
+def getNabes(path):
 
-	for k,v in latlongs.items():
+	with open(path, 'rt') as nabes:
+		latlongs = json.loads(nabes.read())
 
-		nabe_name = k
-		borough = latlongs[k]['borough']
-		nabe_latitude = latlongs[k]['geo'][0]
-		nabe_longitude = latlongs[k]['geo'][1]
+	return latlongs	
+
+latlongs = getNabes(Data._PATH_TO_NEIGHBORHOODS)
+
+for k,v in latlongs.items():
+
+	nabe_name = k
+	borough = latlongs[k]['borough']
+	nabe_latitude = latlongs[k]['geo'][0]
+	nabe_longitude = latlongs[k]['geo'][1]
 
 
 	location = pk.Location(nabe_latitude, nabe_longitude)
@@ -34,7 +40,7 @@ with open(Data._PATH_TO_NEIGHBORHOODS, 'rt') as nabes:
 
 		print "adding %s from %s, %s" % (yak_doc['text'], nabe_name, borough)
 		conn.collection.update(key, yak_doc, upsert=True)
-	time.sleep(15)   #lets not upset anyone
+	time.sleep(5)   #lets not upset anyone
 
 
 
