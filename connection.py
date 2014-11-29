@@ -1,10 +1,9 @@
 from pymongo import MongoClient
+from config import Database as db
 
 c = MongoClient()
-
-db = c['text_collections']
-
-collection = db['yikyak']
+db = c[db._NAME]
+collection = db[db._COLLECTION]
 
 
 
