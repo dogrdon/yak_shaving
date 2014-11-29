@@ -1,0 +1,1836 @@
+{
+    "Ozone Park": {
+        "borough": "Queens", 
+        "geo": [
+            "40.679079548146539", 
+            "-73.846366322875681"
+        ]
+    }, 
+    "Greenpoint": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.727770626163732", 
+            "-73.945976086167292"
+        ]
+    }, 
+    "Financial District": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.706815539774588", 
+            "-74.009223178535919"
+        ]
+    }, 
+    "Fulton Ferry": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.702411379286268", 
+            "-73.993765830945264"
+        ]
+    }, 
+    "Williamsburg": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.710806302328756", 
+            "-73.947445634053409"
+        ]
+    }, 
+    "Mount Eden": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.841461799022831", 
+            "-73.917430395961077"
+        ]
+    }, 
+    "Bull's Head": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.604811511619033", 
+            "-74.162340087266301"
+        ]
+    }, 
+    "Windsor Terrace": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.653663816227414", 
+            "-73.977423138393135"
+        ]
+    }, 
+    "Cambria Heights": {
+        "borough": "Queens", 
+        "geo": [
+            "40.693308741282273", 
+            "-73.73665310615003"
+        ]
+    }, 
+    "Concourse": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.828135244526599", 
+            "-73.925501474235404"
+        ]
+    }, 
+    "Oakwood": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.558660801564955", 
+            "-74.117435747460874"
+        ]
+    }, 
+    "South Ozone Park": {
+        "borough": "Queens", 
+        "geo": [
+            "40.671317169980988", 
+            "-73.813213198693617"
+        ]
+    }, 
+    "Jackson Heights": {
+        "borough": "Queens", 
+        "geo": [
+            "40.751654796755417", 
+            "-73.884151535799589"
+        ]
+    }, 
+    "Port Richmond": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.632979798033929", 
+            "-74.137512883376374"
+        ]
+    }, 
+    "Cobble Hill": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.687414544938761", 
+            "-73.99596161925561"
+        ]
+    }, 
+    "Inwood": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.86745318720174", 
+            "-73.923878481433221"
+        ]
+    }, 
+    "Roosevelt Island": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.762050896821435", 
+            "-73.949932064924951"
+        ]
+    }, 
+    "Allerton": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.865562633981213", 
+            "-73.861253886869363"
+        ]
+    }, 
+    "Rossville": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.549690292003255", 
+            "-74.206458683975768"
+        ]
+    }, 
+    "Kingsbridge": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.875958385539541", 
+            "-73.900540880958218"
+        ]
+    }, 
+    "Holliswood": {
+        "borough": "Queens", 
+        "geo": [
+            "40.721260775565796", 
+            "-73.769127804811816"
+        ]
+    }, 
+    "Queens Village": {
+        "borough": "Queens", 
+        "geo": [
+            "40.716645608789854", 
+            "-73.74245152007633"
+        ]
+    }, 
+    "Prospect-Lefferts Gardens": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.659580405831008", 
+            "-73.950953951112666"
+        ]
+    }, 
+    "Rockaway Beach": {
+        "borough": "Queens", 
+        "geo": [
+            "40.587842864812046", 
+            "-73.810027658446174"
+        ]
+    }, 
+    "Gramercy": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.735451457965553", 
+            "-73.983671511834373"
+        ]
+    }, 
+    "Washington Heights": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.84588377169414", 
+            "-73.93696056472092"
+        ]
+    }, 
+    "Stapleton": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.630778335769598", 
+            "-74.075843150734755"
+        ]
+    }, 
+    "North Riverdale": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.90736277729993", 
+            "-73.90463899055689"
+        ]
+    }, 
+    "Astoria": {
+        "borough": "Queens", 
+        "geo": [
+            "40.771822034226183", 
+            "-73.912989855204657"
+        ]
+    }, 
+    "Todt Hill": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.59708491694569", 
+            "-74.107025474975813"
+        ]
+    }, 
+    "Clinton Hill": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.689283943929084", 
+            "-73.964484560260416"
+        ]
+    }, 
+    "Gravesend": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.594529100915544", 
+            "-73.981747250666814"
+        ]
+    }, 
+    "University Heights": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.858401769917926", 
+            "-73.910244935232271"
+        ]
+    }, 
+    "Meat Packing District": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.740710052646214", 
+            "-74.005590108024364"
+        ]
+    }, 
+    "Port Morris": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.804774614039999", 
+            "-73.910811370409945"
+        ]
+    }, 
+    "Bayside": {
+        "borough": "Queens", 
+        "geo": [
+            "40.756309882356007", 
+            "-73.765181920230745"
+        ]
+    }, 
+    "Park Slope": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.673580213812215", 
+            "-73.978660704741841"
+        ]
+    }, 
+    "Westchester Square": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.846797670180486", 
+            "-73.843568086348313"
+        ]
+    }, 
+    "Chinatown": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.715743094484843", 
+            "-73.995584889231466"
+        ]
+    }, 
+    "South Brooklyn": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.666441908818591", 
+            "-73.994438168914755"
+        ]
+    }, 
+    "Corona": {
+        "borough": "Queens", 
+        "geo": [
+            "40.746775372361", 
+            "-73.859393224348068"
+        ]
+    }, 
+    "West Village": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.73400872191764", 
+            "-74.005873784001082"
+        ]
+    }, 
+    "East Elmhurst": {
+        "borough": "Queens", 
+        "geo": [
+            "40.76253700196299", 
+            "-73.879942020815619"
+        ]
+    }, 
+    "Downtown Brooklyn": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.694763649805452", 
+            "-73.986549746153457"
+        ]
+    }, 
+    "Dyker Heights": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.61963469179382", 
+            "-74.013542294968175"
+        ]
+    }, 
+    "Upper West Side": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.791134546888465", 
+            "-73.973305538510971"
+        ]
+    }, 
+    "Harlem": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.816799399173178", 
+            "-73.947516731891284"
+        ]
+    }, 
+    "Bay Ridge": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.631120107963589", 
+            "-74.028250776551332"
+        ]
+    }, 
+    "Dongan Hills": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.582456889524501", 
+            "-74.093395907230502"
+        ]
+    }, 
+    "Two Bridges": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.710712834110552", 
+            "-73.996940369498532"
+        ]
+    }, 
+    "Jamaica": {
+        "borough": "Queens", 
+        "geo": [
+            "40.688874526743561", 
+            "-73.788724391905248"
+        ]
+    }, 
+    "Prince's Bay": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.522821412579844", 
+            "-74.199238842039478"
+        ]
+    }, 
+    "Chelsea, Staten Island": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.589721876295094", 
+            "-74.188359973624443"
+        ]
+    }, 
+    "Little Neck": {
+        "borough": "Queens", 
+        "geo": [
+            "40.765220111324325", 
+            "-73.730144524218701"
+        ]
+    }, 
+    "Highbridge": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.836940617539177", 
+            "-73.927707751232305"
+        ]
+    }, 
+    "Brooklyn Heights": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.695344125539606", 
+            "-73.995241493588821"
+        ]
+    }, 
+    "Fort Greene": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.690620099629683", 
+            "-73.975002390524821"
+        ]
+    }, 
+    "Bloomfield": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.617590597141763", 
+            "-74.190331299598839"
+        ]
+    }, 
+    "Kensington": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.639504813520354", 
+            "-73.975656843845258"
+        ]
+    }, 
+    "Howard Beach": {
+        "borough": "Queens", 
+        "geo": [
+            "40.656180348033878", 
+            "-73.844154085428713"
+        ]
+    }, 
+    "New Dorp Beach": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.566182659080624", 
+            "-74.103050316338198"
+        ]
+    }, 
+    "NoHo": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.727058688279158", 
+            "-73.99335224762045"
+        ]
+    }, 
+    "Midwood": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.620411615713671", 
+            "-73.961055764833048"
+        ]
+    }, 
+    "East Village": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.726169338942725", 
+            "-73.982365087969171"
+        ]
+    }, 
+    "Hunts Point": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.810752855992277", 
+            "-73.882311380843049"
+        ]
+    }, 
+    "South Slope": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.664148199917086", 
+            "-73.984969332219066"
+        ]
+    }, 
+    "Schuylerville": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.837258830128654", 
+            "-73.832291471666196"
+        ]
+    }, 
+    "Lower East Side": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.71606398378686", 
+            "-73.984697446581222"
+        ]
+    }, 
+    "Columbia St": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.684421549885577", 
+            "-74.004280204782532"
+        ]
+    }, 
+    "Baychester": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.871358088932737", 
+            "-73.841064942006014"
+        ]
+    }, 
+    "Pelham Bay": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.851247289925922", 
+            "-73.826551102047787"
+        ]
+    }, 
+    "Upper East Side": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.772751189310014", 
+            "-73.956441769774401"
+        ]
+    }, 
+    "Long Island City": {
+        "borough": "Queens", 
+        "geo": [
+            "40.748500542284887", 
+            "-73.938555888334136"
+        ]
+    }, 
+    "Rikers Island": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.791011666105319", 
+            "-73.882652560989655"
+        ]
+    }, 
+    "Woodlawn": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.898554906879951", 
+            "-73.867206426737994"
+        ]
+    }, 
+    "Charleston": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.541673267956099", 
+            "-74.232651822148028"
+        ]
+    }, 
+    "East New York": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.660609898178144", 
+            "-73.878370891822172"
+        ]
+    }, 
+    "Richmondtown": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.570336467252766", 
+            "-74.131303122665187"
+        ]
+    }, 
+    "Central Park": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.782469106715268", 
+            "-73.965560537330475"
+        ]
+    }, 
+    "Melrose": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.820438814807829", 
+            "-73.91763185965479"
+        ]
+    }, 
+    "Unionport": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.829750163525802", 
+            "-73.84953485207383"
+        ]
+    }, 
+    "Castle Hill": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.81877679337741", 
+            "-73.848413321612284"
+        ]
+    }, 
+    "Fort Wadsworth": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.600040004127948", 
+            "-74.057841490752253"
+        ]
+    }, 
+    "Bronxdale": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.858946292668008", 
+            "-73.865278120944041"
+        ]
+    }, 
+    "Kew Gardens Hills": {
+        "borough": "Queens", 
+        "geo": [
+            "40.726579853674963", 
+            "-73.826556751125381"
+        ]
+    }, 
+    "Country Club": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.841530926958143", 
+            "-73.82052119831684"
+        ]
+    }, 
+    "BoCoCa": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.681974802308133", 
+            "-73.994618625160825"
+        ]
+    }, 
+    "Maspeth": {
+        "borough": "Queens", 
+        "geo": [
+            "40.726145227055028", 
+            "-73.905903343391671"
+        ]
+    }, 
+    "Koreatown": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.747544289409582", 
+            "-73.98556041242216"
+        ]
+    }, 
+    "Castleton Corners": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.616238316586696", 
+            "-74.121263255447403"
+        ]
+    }, 
+    "College Point": {
+        "borough": "Queens", 
+        "geo": [
+            "40.781808886954899", 
+            "-73.840898383745866"
+        ]
+    }, 
+    "Douglaston": {
+        "borough": "Queens", 
+        "geo": [
+            "40.762379866160735", 
+            "-73.742900767023144"
+        ]
+    }, 
+    "Arden Heights": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.55466744554662", 
+            "-74.179352851000345"
+        ]
+    }, 
+    "Westerleigh": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.618106416407038", 
+            "-74.138256692846198"
+        ]
+    }, 
+    "Middle Village": {
+        "borough": "Queens", 
+        "geo": [
+            "40.715689369189043", 
+            "-73.879196660601437"
+        ]
+    }, 
+    "Woodrow": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.538890453595656", 
+            "-74.199692083341432"
+        ]
+    }, 
+    "Bay Terrace": {
+        "borough": "Queens", 
+        "geo": [
+            "40.784769664502974", 
+            "-73.783097686994552"
+        ]
+    }, 
+    "West Farms": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.842631278457283", 
+            "-73.881747311004105"
+        ]
+    }, 
+    "Governors Island": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.688915192540819", 
+            "-74.019040687623331"
+        ]
+    }, 
+    "Fresh Meadows": {
+        "borough": "Queens", 
+        "geo": [
+            "40.737261564388191", 
+            "-73.781219256076255"
+        ]
+    }, 
+    "Elmhurst": {
+        "borough": "Queens", 
+        "geo": [
+            "40.737449283667566", 
+            "-73.878966663173571"
+        ]
+    }, 
+    "Floyd Bennett Field": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.591015101426798", 
+            "-73.89464800474677"
+        ]
+    }, 
+    "Randall Manor": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.638206584097219", 
+            "-74.112169937068572"
+        ]
+    }, 
+    "Bayswater": {
+        "borough": "Queens", 
+        "geo": [
+            "40.606442132763682", 
+            "-73.764018405862927"
+        ]
+    }, 
+    "Morris Heights": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.849963041673746", 
+            "-73.918014627010677"
+        ]
+    }, 
+    "Port Ivory": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.642796712230826", 
+            "-74.177912924191546"
+        ]
+    }, 
+    "Briarwood": {
+        "borough": "Queens", 
+        "geo": [
+            "40.710795276195519", 
+            "-73.814142179611167"
+        ]
+    }, 
+    "Jamaica Estates": {
+        "borough": "Queens", 
+        "geo": [
+            "40.719786446487312", 
+            "-73.785875199242369"
+        ]
+    }, 
+    "Flatlands": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.626562870716945", 
+            "-73.92960999961295"
+        ]
+    }, 
+    "Midtown West": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.75784690289948", 
+            "-73.99741341371309"
+        ]
+    }, 
+    "Rego Park": {
+        "borough": "Queens", 
+        "geo": [
+            "40.726283099496563", 
+            "-73.861607413509759"
+        ]
+    }, 
+    "Throgs Neck": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.819916904662534", 
+            "-73.822009336068021"
+        ]
+    }, 
+    "Laurelton": {
+        "borough": "Queens", 
+        "geo": [
+            "40.676651861237808", 
+            "-73.742936002105154"
+        ]
+    }, 
+    "Breezy Point": {
+        "borough": "Queens", 
+        "geo": [
+            "40.561256839920212", 
+            "-73.901965463656268"
+        ]
+    }, 
+    "Boerum Hill": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.686452862655607", 
+            "-73.985107402956274"
+        ]
+    }, 
+    "Claremont Village": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.839342529973948", 
+            "-73.906134582741899"
+        ]
+    }, 
+    "Bergen Beach": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.618793719171059", 
+            "-73.903981637878005"
+        ]
+    }, 
+    "Williamsbridge": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.877334998198123", 
+            "-73.857777468147191"
+        ]
+    }, 
+    "Whitestone": {
+        "borough": "Queens", 
+        "geo": [
+            "40.786627340024317", 
+            "-73.810990267938507"
+        ]
+    }, 
+    "West Brighton": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.629164165836478", 
+            "-74.110609093246794"
+        ]
+    }, 
+    "Brownsville": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.664045829496963", 
+            "-73.909748961660767"
+        ]
+    }, 
+    "Bushwick": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.694533498159068", 
+            "-73.916837229838279"
+        ]
+    }, 
+    "Eltingville": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.542166780101489", 
+            "-74.154234715497935"
+        ]
+    }, 
+    "Nolita": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.722356582244316", 
+            "-73.995095619404552"
+        ]
+    }, 
+    "Brighton Beach": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.57834278966623", 
+            "-73.968079584904558"
+        ]
+    }, 
+    "Red Hook": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.674775054449", 
+            "-74.009307335976317"
+        ]
+    }, 
+    "City Island": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.850585054409287", 
+            "-73.779288391931061"
+        ]
+    }, 
+    "Midland Beach": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.574002208193043", 
+            "-74.093044380662391"
+        ]
+    }, 
+    "Battery Park City": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.711287506281238", 
+            "-74.016239336562066"
+        ]
+    }, 
+    "Prospect Park": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.662603249149072", 
+            "-73.968863302271728"
+        ]
+    }, 
+    "Borough Park": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.630459400238351", 
+            "-73.990368042540666"
+        ]
+    }, 
+    "Parkchester": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.835911566651419", 
+            "-73.86543659272931"
+        ]
+    }, 
+    "Silver Lake": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.624280765199302", 
+            "-74.096476234341637"
+        ]
+    }, 
+    "Sheepshead Bay": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.596150457288303", 
+            "-73.949557729090074"
+        ]
+    }, 
+    "Arrochar": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.592957441316905", 
+            "-74.071699475103244"
+        ]
+    }, 
+    "John F. Kennedy International Airport": {
+        "borough": "Queens", 
+        "geo": [
+            "40.647442889922075", 
+            "-73.78793910466031"
+        ]
+    }, 
+    "Manhattan Beach": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.578993323035952", 
+            "-73.942557586991896"
+        ]
+    }, 
+    "Edgemere": {
+        "borough": "Queens", 
+        "geo": [
+            "40.597858283598278", 
+            "-73.777770262291853"
+        ]
+    }, 
+    "Huguenot": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.532269122882042", 
+            "-74.169539284261575"
+        ]
+    }, 
+    "Gerritsen Beach": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.595287039059613", 
+            "-73.921535656097134"
+        ]
+    }, 
+    "Coney Island": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.575695741607738", 
+            "-73.992374074361422"
+        ]
+    }, 
+    "Fieldston": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.894306980616697", 
+            "-73.902796347169087"
+        ]
+    }, 
+    "Garment District": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.7528841891695", 
+            "-73.990160215808217"
+        ]
+    }, 
+    "Edenwald": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.886937255462342", 
+            "-73.840118286152958"
+        ]
+    }, 
+    "Morningside Heights": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.809432111041311", 
+            "-73.962122858592664"
+        ]
+    }, 
+    "Tottenville": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.508280552426349", 
+            "-74.236417607738161"
+        ]
+    }, 
+    "Clason Point": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.813551750769641", 
+            "-73.861150593672036"
+        ]
+    }, 
+    "Cypress Hills": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.683280417219606", 
+            "-73.879992566546733"
+        ]
+    }, 
+    "Tompkinsville": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.631366930581798", 
+            "-74.086766812585381"
+        ]
+    }, 
+    "Flushing": {
+        "borough": "Queens", 
+        "geo": [
+            "40.75214521834318", 
+            "-73.816299170590128"
+        ]
+    }, 
+    "Little Italy": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.719042059451517", 
+            "-73.997559577200235"
+        ]
+    }, 
+    "Parkside": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.890148333333336", 
+            "-73.819708666666671"
+        ]
+    }, 
+    "East Harlem": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.79692946593633", 
+            "-73.940495622015121"
+        ]
+    }, 
+    "Arverne": {
+        "borough": "Queens", 
+        "geo": [
+            "40.59446346175308", 
+            "-73.795308006569002"
+        ]
+    }, 
+    "South Beach": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.588406438196088", 
+            "-74.085363422982468"
+        ]
+    }, 
+    "Park Hill": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.613190194908931", 
+            "-74.080135771408038"
+        ]
+    }, 
+    "Belmont": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.853795646725615", 
+            "-73.888221429681209"
+        ]
+    }, 
+    "Mott Haven": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.811244126564141", 
+            "-73.919195194693913"
+        ]
+    }, 
+    "East Flatbush": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.648264211069112", 
+            "-73.933120277219643"
+        ]
+    }, 
+    "Sea Gate": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.576770567403095", 
+            "-74.007338118612054"
+        ]
+    }, 
+    "Stuyvesant Town": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.731837492241439", 
+            "-73.976519623797444"
+        ]
+    }, 
+    "Emerson Hill": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.604545116260937", 
+            "-74.128308993702078"
+        ]
+    }, 
+    "Marble Hill": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.875839133786904", 
+            "-73.910405396072704"
+        ]
+    }, 
+    "St. Albans": {
+        "borough": "Queens", 
+        "geo": [
+            "40.696829454951171", 
+            "-73.763281500007011"
+        ]
+    }, 
+    "Morrisania": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.829594016339293", 
+            "-73.904174485511234"
+        ]
+    }, 
+    "Flatbush": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.642078260048805", 
+            "-73.959951393817349"
+        ]
+    }, 
+    "New Dorp": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.572590585754156", 
+            "-74.115929256019868"
+        ]
+    }, 
+    "Chrome": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.569192752437168", 
+            "-74.201617166653307"
+        ]
+    }, 
+    "Mill Basin": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.610055917323074", 
+            "-73.911342784143315"
+        ]
+    }, 
+    "Pelham Bay Park": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.871580958841648", 
+            "-73.804736203561774"
+        ]
+    }, 
+    "East Tremont": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.841497023190456", 
+            "-73.87202656881162"
+        ]
+    }, 
+    "Sunnyside": {
+        "borough": "Queens", 
+        "geo": [
+            "40.740194316410268", 
+            "-73.920132371260365"
+        ]
+    }, 
+    "Richmond Hill": {
+        "borough": "Queens", 
+        "geo": [
+            "40.693871906685601", 
+            "-73.829230930395312"
+        ]
+    }, 
+    "Springfield Gardens": {
+        "borough": "Queens", 
+        "geo": [
+            "40.667620023920826", 
+            "-73.761400519435327"
+        ]
+    }, 
+    "Gowanus": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.675861639246001", 
+            "-73.990945044739775"
+        ]
+    }, 
+    "Great Kills Park": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.546105071974459", 
+            "-74.127934616925245"
+        ]
+    }, 
+    "Vinegar Hill": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.701877068878971", 
+            "-73.983261078484603"
+        ]
+    }, 
+    "Canarsie": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.638245649965114", 
+            "-73.898814845271346"
+        ]
+    }, 
+    "Shore Acres": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.607997650723561", 
+            "-74.065487509280814"
+        ]
+    }, 
+    "Randall's Island": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.791108749789409", 
+            "-73.924630310785915"
+        ]
+    }, 
+    "Norwood": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.875409562664061", 
+            "-73.879524992272451"
+        ]
+    }, 
+    "Lighthouse Hill": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.573599262279444", 
+            "-74.138937319187136"
+        ]
+    }, 
+    "Green-Wood Cemetery": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.652116031656149", 
+            "-73.990236925265577"
+        ]
+    }, 
+    "Laconia": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.865226399374045", 
+            "-73.85366924044132"
+        ]
+    }, 
+    "Theater District": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.758861720468111", 
+            "-73.984893495242972"
+        ]
+    }, 
+    "Midtown": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.757048627815216", 
+            "-73.973740643095027"
+        ]
+    }, 
+    "Lincoln Square": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.774824570964213", 
+            "-73.985242232539022"
+        ]
+    }, 
+    "Tremont": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.845599025617908", 
+            "-73.893034433057167"
+        ]
+    }, 
+    "Bensonhurst": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.612899494903758", 
+            "-73.994761113372903"
+        ]
+    }, 
+    "Bay Terrace, Staten Island": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.558070766804654", 
+            "-74.138801093455697"
+        ]
+    }, 
+    "Willowbrook": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.600090786684959", 
+            "-74.140415884277814"
+        ]
+    }, 
+    "LaGuardia Airport": {
+        "borough": "Queens", 
+        "geo": [
+            "40.774159941182319", 
+            "-73.873614326831998"
+        ]
+    }, 
+    "Civic Center": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.714010204880054", 
+            "-74.002754558210796"
+        ]
+    }, 
+    "Murray Hill": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.747884603248764", 
+            "-73.975374696211816"
+        ]
+    }, 
+    "Glen Oaks": {
+        "borough": "Queens", 
+        "geo": [
+            "40.752908567466967", 
+            "-73.715762835891738"
+        ]
+    }, 
+    "Concord": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.602215338862102", 
+            "-74.081057114175607"
+        ]
+    }, 
+    "Rockaway Park": {
+        "borough": "Queens", 
+        "geo": [
+            "40.581378730655651", 
+            "-73.831685368290863"
+        ]
+    }, 
+    "Van Nest": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.84874566052234", 
+            "-73.856924395454385"
+        ]
+    }, 
+    "Hillside": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.861142332106112", 
+            "-73.836269411920881"
+        ]
+    }, 
+    "Crotona Park": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.838559334682685", 
+            "-73.895266003967279"
+        ]
+    }, 
+    "Hollis Hills": {
+        "borough": "Queens", 
+        "geo": [
+            "40.733207682501003", 
+            "-73.754034156274813"
+        ]
+    }, 
+    "New Springville": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.582840674473942", 
+            "-74.165672119692871"
+        ]
+    }, 
+    "Howland Hook": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.633438297956431", 
+            "-74.1792535864775"
+        ]
+    }, 
+    "St. George": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.64283362014983", 
+            "-74.079437446076568"
+        ]
+    }, 
+    "Greenridge": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.567033093490082", 
+            "-74.175147168848483"
+        ]
+    }, 
+    "DUMBO": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.703215323727832", 
+            "-73.988575015004429"
+        ]
+    }, 
+    "Rosebank": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.613437590856911", 
+            "-74.071533244979946"
+        ]
+    }, 
+    "Jamaica Hills": {
+        "borough": "Queens", 
+        "geo": [
+            "40.71544851989583", 
+            "-73.800539304458454"
+        ]
+    }, 
+    "Broad Channel": {
+        "borough": "Queens", 
+        "geo": [
+            "40.61630823899614", 
+            "-73.81361863806265"
+        ]
+    }, 
+    "Flatiron District": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.740329891855595", 
+            "-73.989441386343984"
+        ]
+    }, 
+    "Bath Beach": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.603589915353176", 
+            "-74.00668256036198"
+        ]
+    }, 
+    "Bronx Zoo": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.854980919917537", 
+            "-73.87632771549076"
+        ]
+    }, 
+    "Olinville": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.876741070225883", 
+            "-73.867799214096109"
+        ]
+    }, 
+    "Plum Beach": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.583231096382704", 
+            "-73.917526725762812"
+        ]
+    }, 
+    "Navy Yard": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.701979431518282", 
+            "-73.97229659393382"
+        ]
+    }, 
+    "Co-op City": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.872810107571311", 
+            "-73.826825464366053"
+        ]
+    }, 
+    "Crown Heights": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.668457030440742", 
+            "-73.941844810109373"
+        ]
+    }, 
+    "Floral Park": {
+        "borough": "Queens", 
+        "geo": [
+            "40.74235411541801", 
+            "-73.707806430567061"
+        ]
+    }, 
+    "Great Kills": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.554241533605051", 
+            "-74.153266305918919"
+        ]
+    }, 
+    "Mount Hope": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.848484395334175", 
+            "-73.906564895569289"
+        ]
+    }, 
+    "Liberty Island": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.689913795217244", 
+            "-74.045313345889795"
+        ]
+    }, 
+    "Bellerose": {
+        "borough": "Queens", 
+        "geo": [
+            "40.736059181342519", 
+            "-73.726563160418124"
+        ]
+    }, 
+    "SoHo": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.724654259098628", 
+            "-74.004057268740183"
+        ]
+    }, 
+    "Belle Harbor": {
+        "borough": "Queens", 
+        "geo": [
+            "40.576246679515179", 
+            "-73.852001937132101"
+        ]
+    }, 
+    "Bedford-Stuyvesant": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.684345335928924", 
+            "-73.937063604739137"
+        ]
+    }, 
+    "Far Rockaway": {
+        "borough": "Queens", 
+        "geo": [
+            "40.600107203331227", 
+            "-73.750880338297634"
+        ]
+    }, 
+    "Ridgewood": {
+        "borough": "Queens", 
+        "geo": [
+            "40.705475000982986", 
+            "-73.905859750092091"
+        ]
+    }, 
+    "Concourse Village": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.828572774619531", 
+            "-73.917012032742974"
+        ]
+    }, 
+    "Pleasant Plains": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.520323865834349", 
+            "-74.225454022087646"
+        ]
+    }, 
+    "Hell's Kitchen": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.765914031397919", 
+            "-73.991573527943629"
+        ]
+    }, 
+    "Tribeca": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.718350406393078", 
+            "-74.008887969556056"
+        ]
+    }, 
+    "Fort Hamilton": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.615047149670531", 
+            "-74.031466741244259"
+        ]
+    }, 
+    "Sunset Park": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.650523976994521", 
+            "-74.010426148561805"
+        ]
+    }, 
+    "Chelsea": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.747749624205717", 
+            "-74.000186061647213"
+        ]
+    }, 
+    "Woodside": {
+        "borough": "Queens", 
+        "geo": [
+            "40.747943125328838", 
+            "-73.902593182461601"
+        ]
+    }, 
+    "Wakefield": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.89549617094363", 
+            "-73.851615937012198"
+        ]
+    }, 
+    "Prospect Heights": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.678092453037543", 
+            "-73.967051786353935"
+        ]
+    }, 
+    "Hollis": {
+        "borough": "Queens", 
+        "geo": [
+            "40.712214021478459", 
+            "-73.766983209301983"
+        ]
+    }, 
+    "Longwood": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.820810644386405", 
+            "-73.900392542598112"
+        ]
+    }, 
+    "Kips Bay": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.740965630512292", 
+            "-73.977706874519583"
+        ]
+    }, 
+    "Soundview": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.825274337549907", 
+            "-73.871470646901059"
+        ]
+    }, 
+    "Glendale": {
+        "borough": "Queens", 
+        "geo": [
+            "40.698316538747477", 
+            "-73.882339657380157"
+        ]
+    }, 
+    "East Morrisania": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.833526586099332", 
+            "-73.887319783793657"
+        ]
+    }, 
+    "Grymes Hill": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.615382951939438", 
+            "-74.093939060998707"
+        ]
+    }, 
+    "Riverdale": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.893163558528023", 
+            "-73.912844400205898"
+        ]
+    }, 
+    "Woodhaven": {
+        "borough": "Queens", 
+        "geo": [
+            "40.694073613721592", 
+            "-73.858352103159433"
+        ]
+    }, 
+    "Greenwich Village": {
+        "borough": "Manhattan", 
+        "geo": [
+            "40.731412460272622", 
+            "-73.996591259598802"
+        ]
+    }, 
+    "Van Cortlandt Park": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.894478197938888", 
+            "-73.881708807438514"
+        ]
+    }, 
+    "Fordham": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.861904257980648", 
+            "-73.893543579407307"
+        ]
+    }, 
+    "Rosedale": {
+        "borough": "Queens", 
+        "geo": [
+            "40.657590797067051", 
+            "-73.739295159116963"
+        ]
+    }, 
+    "Eastchester": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.884667775349307", 
+            "-73.82634567991208"
+        ]
+    }, 
+    "Forest Hills": {
+        "borough": "Queens", 
+        "geo": [
+            "40.720255411943455", 
+            "-73.84649855900436"
+        ]
+    }, 
+    "Clifton": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.621153712908509", 
+            "-74.076534091405989"
+        ]
+    }, 
+    "Graniteville": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.619661930183675", 
+            "-74.154406168795006"
+        ]
+    }, 
+    "Grant City": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.57918602134751", 
+            "-74.107452606732565"
+        ]
+    }, 
+    "Spuyten Duyvil": {
+        "borough": "Bronx", 
+        "geo": [
+            "40.88141622488493", 
+            "-73.91791127755836"
+        ]
+    }, 
+    "New Brighton": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.641845186073276", 
+            "-74.09107394009726"
+        ]
+    }, 
+    "Neponsit": {
+        "borough": "Queens", 
+        "geo": [
+            "40.571615387655243", 
+            "-73.861491012462253"
+        ]
+    }, 
+    "Latourette Park": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.584483996571151", 
+            "-74.137514187151723"
+        ]
+    }, 
+    "Mariners Harbor": {
+        "borough": "Staten Island", 
+        "geo": [
+            "40.633544655739762", 
+            "-74.157458358643495"
+        ]
+    }, 
+    "Marine Park": {
+        "borough": "Brooklyn", 
+        "geo": [
+            "40.611828208332774", 
+            "-73.934598189099134"
+        ]
+    }, 
+    "Kew Gardens": {
+        "borough": "Queens", 
+        "geo": [
+            "40.708427651825119", 
+            "-73.829728270676128"
+        ]
+    }
+}
