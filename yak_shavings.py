@@ -12,7 +12,7 @@ def getNabes(path):
 	return latlongs	
 
 latlongs = getNabes(Data._PATH_TO_NEIGHBORHOODS)
-latlongs = getNabes(Data._PATH_TO_TEST)
+#latlongs = getNabes(Data._PATH_TO_TEST)
 
 for k,v in latlongs.items():
 
