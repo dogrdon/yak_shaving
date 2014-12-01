@@ -11,6 +11,12 @@ import json
    recorded, etc. It would be interesting if further approximations could be constructed, 
    but the labor involved becomes enormous at the next stage. -Claude Shannon'''
 
+def toLower(words):
+	sentenceWords = [word.lower() for word in words]
+	return sentenceWords
+
+def removePunctuation(word):
+	print "need to remove punctuation from", word
 
 def getYaks(*args):
 	'''gets yaks from datastore and creates a list of word lists for each
@@ -30,28 +36,33 @@ def getYaks(*args):
 def orderOneRamble(wordlist):
 
 	sentence_words = []
-
 	count = 0
-
 	word = ''
 
 	while count < random.randrange(15, 21):
 
-
 		if word == '':
-			sentence = wordlist[random.randrange(0, len(wordlist))]
-			word = sentence[random.randrange(0, len(sentence))].title()
-			sentence_words.append(word)
+			sentence = toLower(wordlist[random.randrange(0, len(wordlist))])
+			word = sentence[random.randrange(0, len(sentence))]
+			print "word %s is %s" % ((count + 1), word)
+			sentence_words.append(word.title())
 			count+=1
 		else:
 			sentence = wordlist[random.randrange(0, len(wordlist))]
 
 			if word in sentence and (sentence.index(word) + 1) <= (len(sentence) - 1):
 				word = sentence[sentence.index(word) + 1]
+				print "word %s is %s" % ((count + 1), word)
 				sentence_words.append(word) 
 				count += 1
 			else:
-				continue
+				if (wordlist.index(sentence) + 1) <= (len(wordlist) - 1):
+					sentence = wordlist[wordlist.index(sentence) + 1]
+				else:
+					word = ''
+					#pass
+					#sentence = wordlist[0] #this is not doing what I think it is doing, need to rethink
+				
 
 	sillySentence = ' '.join(sentence_words)
 

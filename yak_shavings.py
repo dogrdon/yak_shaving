@@ -52,7 +52,7 @@ for k,v in latlongs.items():
 
 		print "adding %s from %s, %s - with %s comments" % (yak_doc['text'], nabe_name, borough, len(comments))
 		conn.collection.update(key, yak_doc, upsert=True)
-	time.sleep(5)   #lets not upset anyone
+	time.sleep(8)   #lets not upset anyone
 
 
 
